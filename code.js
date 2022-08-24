@@ -1,5 +1,9 @@
 // helloWorld function
 //test of green square on forked repo
-function helloWorld() {
+const helloWorld = function () {
     return "Hello, World!";
+}
+
+function sayHello(){
+
 }
